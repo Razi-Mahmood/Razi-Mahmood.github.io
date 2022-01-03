@@ -16,6 +16,7 @@ you can use for pretty much whatever.
 AJ
 aj@lkn.io | @ajlkn
 
+Web Link: https://razi-mahmood.github.io/
 
 Credits:
 
